@@ -96,9 +96,9 @@ This report intentionally uses a lab/self-hosted environment so that full techni
 
 ---
 
-## 👤 Author
+## 👤 My link
 
-Linkedin : https://www.linkedin.com/in/muh-khoirisma-65478742b/
-HackerOne: https://www.hackerone.com/attack10
-CyberArmy : https://app.cyberarmy.id/bughunter/profile
-vercel : https://muh-khoirisma.vercel.app/
+https://www.linkedin.com/in/muh-khoirisma-65478742b/
+https://www.hackerone.com/attack10
+https://app.cyberarmy.id/bughunter/profile
+https://muh-khoirisma.vercel.app/
